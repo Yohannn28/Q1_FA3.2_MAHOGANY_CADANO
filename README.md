@@ -2,6 +2,10 @@
 
 ## Loan requirement checker
 - checks if you have requirements for loan
+## Requirements
+- Enter credit score
+- Enter annual income
+- Entee years at current job
 
 ## Sample
 ```
